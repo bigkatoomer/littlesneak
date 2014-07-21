@@ -1,1 +1,3 @@
 Append log here
+Colour
+Size
